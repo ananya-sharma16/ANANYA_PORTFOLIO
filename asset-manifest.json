@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ANANYA_PORTFOLIO/static/css/main.53b7aa56.css",
+    "main.js": "/ANANYA_PORTFOLIO/static/js/main.3fd71929.js",
+    "static/media/avatar2.jpg": "/ANANYA_PORTFOLIO/static/media/avatar2.d98542a7d6fbe40b34e7.jpg",
+    "static/media/avatar3.jpg": "/ANANYA_PORTFOLIO/static/media/avatar3.f788cdcef4516cdf09c9.jpg",
+    "static/media/avatar4.jpg": "/ANANYA_PORTFOLIO/static/media/avatar4.d661e81d1a7ea3dc740c.jpg",
+    "static/media/portfolio1.jpg": "/ANANYA_PORTFOLIO/static/media/portfolio1.5c1ade64b15631d8c82a.jpg",
+    "static/media/avatar1.jpg": "/ANANYA_PORTFOLIO/static/media/avatar1.269b737854abaf979d17.jpg",
+    "static/media/portfolio2.jpg": "/ANANYA_PORTFOLIO/static/media/portfolio2.79f8a66b2af56c437f56.jpg",
+    "static/media/portfolio5.jpg": "/ANANYA_PORTFOLIO/static/media/portfolio5.4d81fd38c0207087710b.jpg",
+    "static/media/me.jpg": "/ANANYA_PORTFOLIO/static/media/me.3938a4ccbeca131f4a1f.jpg",
+    "static/media/cv.pdf": "/ANANYA_PORTFOLIO/static/media/cv.ab0112b5ad13dbfa6290.pdf",
+    "static/media/portfolio4.jpg": "/ANANYA_PORTFOLIO/static/media/portfolio4.7de15d68e1fe07d1a6bf.jpg",
+    "static/media/portfolio3.jpg": "/ANANYA_PORTFOLIO/static/media/portfolio3.a97bab192b4832339d0a.jpg",
+    "static/media/me-about.jpg": "/ANANYA_PORTFOLIO/static/media/me-about.b617348eefb331ba004e.jpg",
+    "static/media/portfolio6.jpg": "/ANANYA_PORTFOLIO/static/media/portfolio6.97a4d6b52b355f3ecb59.jpg",
+    "static/media/bg-texture.png": "/ANANYA_PORTFOLIO/static/media/bg-texture.ae81808d78d6d7f3619a.png",
+    "index.html": "/ANANYA_PORTFOLIO/index.html",
+    "main.53b7aa56.css.map": "/ANANYA_PORTFOLIO/static/css/main.53b7aa56.css.map",
+    "main.3fd71929.js.map": "/ANANYA_PORTFOLIO/static/js/main.3fd71929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b7aa56.css",
+    "static/js/main.3fd71929.js"
+  ]
+}
